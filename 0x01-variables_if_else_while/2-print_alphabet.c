@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-/*
+/**
  * main - entry point
  *
  * Description: Prints the alphabet in lowercase\n
@@ -10,8 +10,7 @@
  *
 */
 
-
-int main(void)
+int main(void) /*main*/
 
 {
 	int ch;

@@ -3,7 +3,7 @@
 
 /**
  * main - entry point
- * 
+ *
  * Description: Prints char below 10.
  *
  * Return: 0 (success)
