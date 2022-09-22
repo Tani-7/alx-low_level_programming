@@ -2,7 +2,6 @@
 #include <unistd.h>
 
 /**
- *
  * main - entry point
  *
  * Description: Prints numbers
@@ -11,7 +10,6 @@
 */
 
 int main(void)
-
 {
 	int i;
 	
