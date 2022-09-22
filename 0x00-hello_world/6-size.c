@@ -1,11 +1,11 @@
 #include <stdio.h>
 
 /**
- *	main function(return value)
+ *	main - Entry point
  *
- *	Description:printf the memorysize of data types
+ *	Description: printf the memorysize of data types
  *
- *	return: 0 indicates success
+ *	return: Zero 0 success
  *
 */
 
